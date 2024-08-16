@@ -1,0 +1,3 @@
+TOKEN=your token
+role_id=ur role id
+logs_id=channel id
